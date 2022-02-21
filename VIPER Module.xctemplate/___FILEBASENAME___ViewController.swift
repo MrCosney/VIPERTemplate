@@ -14,14 +14,7 @@ final class ___VARIABLE_ModuleName___ViewController: UIViewController {
     // MARK: - Public Properties
     var output: ___VARIABLE_ModuleName___ViewControllerOutput?
 
-    // MARK: - Private Properties
-    private var contentView = ___VARIABLE_ModuleName___View()
-
-    // MARK: - Lifecycle Methods
-    override func loadView() {
-        view = contentView
-    }
-
+    // MARK: - Lifecycle
     override func viewDidLoad() {
         super.viewDidLoad()
     }
