@@ -15,7 +15,7 @@ final class ___VARIABLE_ModuleName___Interactor {
     weak var output: ___VARIABLE_ModuleName___InteractorOutput!
 }
 
-// MARK: - Extenstion for the huge methods of ___VARIABLE_ModuleName___Interactor
+// MARK: - Extension for the huge methods of ___VARIABLE_ModuleName___Interactor
 private extension ___VARIABLE_ModuleName___Interactor {}
 
 // MARK: - ___VARIABLE_ModuleName___InteractorProtocol
