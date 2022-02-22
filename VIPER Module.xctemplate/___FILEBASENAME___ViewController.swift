@@ -12,7 +12,7 @@ protocol ___VARIABLE_ModuleName___ViewControllerInput: AnyObject {}
 
 final class ___VARIABLE_ModuleName___ViewController: UIViewController {
     // MARK: - Private Properties
-    private var output: ___VARIABLE_ModuleName___ViewControllerOutput?
+    var output: ___VARIABLE_ModuleName___ViewControllerOutput?
 
     // MARK: - Lifecycle
     override func viewDidLoad() {
@@ -22,7 +22,10 @@ final class ___VARIABLE_ModuleName___ViewController: UIViewController {
     // MARK: - Methods
 }
 
+// MARK: - Extenstion for the huge methods of ___VARIABLE_ModuleName___ViewController
+private extension ___VARIABLE_ModuleName___ViewController {}
+
 // MARK: - ___VARIABLE_ModuleName___ViewControllerInput
-private extension ___VARIABLE_ModuleName___ViewController: ___VARIABLE_ModuleName___ViewControllerInput {
-    // TODO: Implement View Input Methods
+extension ___VARIABLE_ModuleName___ViewController: ___VARIABLE_ModuleName___ViewControllerInput {
+    // TODO: - Implement View Input Methods
 }
