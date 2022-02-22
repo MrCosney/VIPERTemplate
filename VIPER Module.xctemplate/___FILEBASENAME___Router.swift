@@ -12,7 +12,7 @@ protocol ___VARIABLE_ModuleName___PresenterOutput {}
 
 final class ___VARIABLE_ModuleName___Router {
     // MARK: - External dependency
-    private weak var moduleOutput: ___VARIABLE_ModuleName___ModuleOutput?
+    weak var moduleOutput: ___VARIABLE_ModuleName___ModuleOutput?
 }
 
 // MARK: - ___VARIABLE_ModuleName___PresenterOutput
