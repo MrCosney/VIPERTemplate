@@ -16,6 +16,6 @@ final class ___VARIABLE_ModuleName___Router {
 }
 
 // MARK: - ___VARIABLE_ModuleName___PresenterOutput
-private extension ___VARIABLE_ModuleName___Router: ___VARIABLE_ModuleName___PresenterOutput {
+extension ___VARIABLE_ModuleName___Router: ___VARIABLE_ModuleName___PresenterOutput {
     // TODO: - Implement Interactor Outputs Methods
 }
