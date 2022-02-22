@@ -30,7 +30,7 @@ final class ___VARIABLE_ModuleName___Presenter {
     }
 }
 
-// MARK: - Extenstion for the huge methods of ___VARIABLE_ModuleName___Presenter
+// MARK: - Extension for the huge methods of ___VARIABLE_ModuleName___Presenter
 private extension ___VARIABLE_ModuleName___Presenter {}
 
 // MARK: - ___VARIABLE_ModuleName___ViewControllerOutput
