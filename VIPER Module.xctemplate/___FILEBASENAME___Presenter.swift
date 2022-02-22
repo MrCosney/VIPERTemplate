@@ -30,12 +30,15 @@ final class ___VARIABLE_ModuleName___Presenter {
     }
 }
 
+// MARK: - Extenstion for the huge methods of ___VARIABLE_ModuleName___Presenter
+private extension ___VARIABLE_ModuleName___Presenter {}
+
 // MARK: - ___VARIABLE_ModuleName___ViewControllerOutput
-private extension ___VARIABLE_ModuleName___Presenter: ___VARIABLE_ModuleName___ViewControllerOutput {
+extension ___VARIABLE_ModuleName___Presenter: ___VARIABLE_ModuleName___ViewControllerOutput {
     // TODO: - Implement View Output Methods
 }
 
 // MARK: - ___VARIABLE_ModuleName___InteractorOutput
-private extension ___VARIABLE_ModuleName___Presenter: ___VARIABLE_ModuleName___InteractorOutput {
+extension ___VARIABLE_ModuleName___Presenter: ___VARIABLE_ModuleName___InteractorOutput {
     // TODO: - Implement Interactor Outputs Methods
 }
