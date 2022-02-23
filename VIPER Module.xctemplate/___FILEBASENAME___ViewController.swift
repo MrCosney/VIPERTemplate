@@ -11,7 +11,7 @@ import UIKit
 protocol ___VARIABLE_ModuleName___ViewControllerInput: AnyObject {}
 
 final class ___VARIABLE_ModuleName___ViewController: UIViewController {
-    // MARK: - Private Properties
+    // MARK: - Public Properties
     var output: ___VARIABLE_ModuleName___ViewControllerOutput?
 
     // MARK: - Lifecycle
