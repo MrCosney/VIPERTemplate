@@ -16,17 +16,17 @@ final class ___VARIABLE_ModuleName___Presenter {
     // MARK: - External dependencies
     private weak var view: ___VARIABLE_ModuleName___ViewControllerInput?
     private var interactor: ___VARIABLE_ModuleName___InteractorProtocol
-    private var router: ___VARIABLE_ModuleName___PresenterOutput
+    private var moduleOutput: ___VARIABLE_CoordinatorName___Protocol?
 
     // MARK: - Initialisation
     init(
         view: ___VARIABLE_ModuleName___ViewControllerInput,
         interactor: ___VARIABLE_ModuleName___InteractorProtocol,
-        router: ___VARIABLE_ModuleName___PresenterOutput
+        moduleOutput: ___VARIABLE_CoordinatorName___Protocol?
     ) {
         self.view = view
         self.interactor = interactor
-        self.router = router
+        self.moduleOutput = moduleOutput
     }
 }
 
