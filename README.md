@@ -17,4 +17,5 @@ File -> New -> File or ⌘ N
 Scroll down till you see VIPER Module template and choose it.
 
 Set a name for your module. Examples: **User, Auth**
+
 Set a name for Coordinator for current module
